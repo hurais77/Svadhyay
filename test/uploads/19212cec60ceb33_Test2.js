@@ -1,0 +1,1 @@
+var allQuestions = [{question:"",options:["","","",""],answer:-1},{question:"",options:["","","",""],answer:-1},];

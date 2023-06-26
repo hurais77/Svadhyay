@@ -1,0 +1,1 @@
+var allQuestions = [{question:" SI Unit of Current is?",options:["Ampere","Volt","Ohm","Mho"],answer:0},];
